@@ -1,16 +1,21 @@
-## Hi there 👋
+hello everybody my name is markiplier
 
-<!--
-**laggiestguy/laggiestguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+anyways, im a master polymath (self proclaimed) and a master multi-tasker
 
-Here are some ideas to get you started:
+my other account: [epiksabin](https://github.com/epiksabin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+for now, i know
+- JS, TS {intermediate-advanced}
+- Python {full}
+- C++, C {full} (yes i read a 300 page book for one topic for variables)
+- Java {advanced}
+- Rust (🥀) {beginner}
+- assembly (💀) {beginner}
+
+i also do
+- stuff development
+- cybersecurity
+- "educational purposes" things
+- more stuff
+
+i hate github
